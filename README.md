@@ -40,14 +40,15 @@ To automate the ticket categorization process and improve support team efficienc
 
 ## 📂 Project Structure
 
-ML_project2/
-
 * application.py
 * ticket_classifier.pkl
 * requirements.txt
 * README.md
 * ticketclassifiercode.py
 * all_tickets.csv
+
+## Author
+Shakith
 
 
 
