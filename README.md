@@ -40,7 +40,7 @@ To automate the ticket categorization process and improve support team efficienc
 
 ## 📂 Project Structure
 
-FUTURE_ML_02/
+ML_project2/
 
 * application.py
 * ticket_classifier.pkl
@@ -50,6 +50,6 @@ FUTURE_ML_02/
 * all_tickets.csv
 
 
-**Shakith Shetty**
 
-Machine Learning Intern Project – Future Interns
+
+
